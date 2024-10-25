@@ -1,6 +1,6 @@
 {
   "name": "commitlint-config-hjh",
-  "version": "1.0.8",
+  "version": "1.0.0",
   "main": "index.js",
   "description": "Git规范",
   "keywords": [

@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "useWorkspaces": true,
-  "npmClient": "pnpm", 
+  "npmClient": "pnpm",
   "command": {
     "publish": {
       "npmClient": "npm",
