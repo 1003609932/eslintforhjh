@@ -1,10 +1,10 @@
 {
-  "name": "stylelint-config-encode",
-  "version": "1.0.0",
+  "name": "stylelint-config-hjh",
+  "version": "1.0.1",
   "description": "CSS规范",
   "main": "index.js",
   "keywords": [
-    "encode",
+    "hjh",
     "style",
     "lint"
   ],

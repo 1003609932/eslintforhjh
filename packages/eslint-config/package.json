@@ -1,10 +1,10 @@
 {
-  "name": "eslint-config-encode",
-  "version": "1.0.0",
+  "name": "eslint-config-hjh",
+  "version": "1.0.1",
   "main": "index.js",
   "description": "JavaScript TypeScript Node 规范",
   "keywords": [
-    "encode",
+    "hjh",
     "javaScript",
     "typescript",
     "node",
