@@ -1,6 +1,5 @@
 {
   "name": "hjh-cli",
-  "private": true,
   "workspaces": [
     "packages/*"
   ],
